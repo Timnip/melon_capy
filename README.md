@@ -9,4 +9,4 @@ A fun pet that is great around small children!
 Do not use this poor, innocent capybara as a furnace fuel, it just isn't nice. :(
 
 # Credits
-Rubenwardy's "Nyancat" mod, none of ROller's code was used.
+Code originally by the man himself, celeron55!!! Then modernized by Rubenwardy, then "borrowed", by me.
